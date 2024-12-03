@@ -6,3 +6,4 @@ Tässä projektissa **nRF5340 Development Kit** joka kerää kiihtyvyysanturin m
 
 
 
+![image](https://github.com/user-attachments/assets/276251ee-6be6-4091-ad0f-4f7dd5eca59c)
