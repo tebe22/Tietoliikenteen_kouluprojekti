@@ -66,4 +66,4 @@ Matriisi:
 - **Teknologiat:** C, Python, BLE, TCP/IP, MySQL, Apache, Markdown-dokumentaatio.
 
 
-*Lisätiedot, koodiesimerkit ja tekniset konfiguraatio-ohjeet löytyvät projektin GitHub-repositorion kansioista.*
+*Koodiesimerkit löytyvät projektin GitHub-repositorion kansioista.*
