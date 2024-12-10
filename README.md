@@ -71,10 +71,5 @@ Esimerkkimatriisi:
 - **SDLC-vaiheet:** Vaatimusmäärittely, suunnittelu, toteutus, testaus, käyttöönotto ja ylläpito.  
 - **Teknologiat:** C, Python, BLE, TCP/IP, MySQL, Apache, Markdown-dokumentaatio.
 
-## Lisenssi
-
-Koodi on jaettu avoimen lähdekoodin lisenssillä (esim. MIT), ellei toisin mainita. Tarkista yksittäiset tiedostot ja kirjastoihin liittyvät lisenssiehdot.
-
----
 
 *Lisätiedot, koodiesimerkit ja tekniset konfiguraatio-ohjeet löytyvät projektin GitHub-repositorion kansioista.*
