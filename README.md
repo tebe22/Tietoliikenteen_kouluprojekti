@@ -2,7 +2,7 @@
 
 ## Projektin yleiskuvaus
 
-Tässä projektissa **nRF5340 Development Kit** joka kerää kiihtyvyysanturin mittauksia, ja lähettää datan langattomasti **IoT-reitittimelle** (Raspberry Pi). Raspberry Pi välittää tiedon **MySQL-tietokantaan**, joka sijaitseen **Oamkin** palvelimella. Tallennettua dataa käytetään koneoppimismalliin, joka tunnistaa miten päin anturi on.
+Tässä projektissa **nRF5340** kerää kiihtyvyysanturin mittauksia, ja lähettää datan langattomasti **IoT-reitittimelle** (Raspberry Pi). Raspberry Pi välittää tiedon **MySQL-tietokantaan**, joka sijaitseen **Oamkin** palvelimella. Tallennettua dataa käytetään koneoppimismalliin, joka tunnistaa miten päin anturi on.
 
 
 
