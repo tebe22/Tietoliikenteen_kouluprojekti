@@ -4,7 +4,7 @@
 
 Tässä projektissa **nRF5340** kerää kiihtyvyysanturin mittauksia, ja lähettää datan langattomasti **IoT-reitittimelle** (Raspberry Pi). Raspberry Pi välittää tiedon **MySQL-tietokantaan**, joka sijaitseen **Oamkin** palvelimella. Tallennettua dataa käytetään koneoppimismalliin, joka tunnistaa miten päin anturi on.
 
-
+<img src="https://github.com/user-attachments/assets/2953a908-0f43-499e-adf9-adc9f7ebf95f" alt="Kuvaus" width="300"/>
 
 
 
@@ -21,7 +21,7 @@ Projektin keskeiset komponentit ja tiedon kulku:
   - Muodostaa confusion matriisin tulosten arviointiin.  
 - **nRF5340 (C-ohjelma):** Toteuttaa K-means-luokittelun laitteeseen kytketyllä kiihtyvyysanturilla hyödyntäen Pythonilla opetettuja keskipisteitä.
 
-<img src="https://github.com/user-attachments/assets/2953a908-0f43-499e-adf9-adc9f7ebf95f" alt="Kuvaus" width="300"/>
+
 
 
 
