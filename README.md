@@ -1,6 +1,6 @@
 # Tietoliikenteen_sovellusprojekti
 
-## Yleiskuvaus
+## Projektin yleiskuvaus
 
 Tässä projektissa **nRF5340 Development Kit** joka kerää kiihtyvyysanturin mittauksia, ja lähettää datan langattomasti **IoT-reitittimelle** (Raspberry Pi). Raspberry Pi välittää tiedon **MySQL-tietokantaan**, joka sijaitseen **Oamkin** palvelimella. Tallennettua dataa käytetään koneoppimismalliin, joka tunnistaa miten päin anturi on.
 
@@ -27,7 +27,7 @@ Projektin keskeiset komponentit ja tiedon kulku:
 
 ## Toteutetut Ohjelmat
 
-1. **Arduino/C-ohjelma (nRF5340):**  
+1. **C-ohjelma (nRF5340):**  
    Lukee kiihtyvyysanturin dataa ADC:n kautta ja lähettää mitatun 3D-datan BLE:n yli.
 
 2. **Python TCP/Socket -ohjelma (Raspberry Pi):**  
@@ -58,17 +58,11 @@ Matriisi:
 
 ![image](https://github.com/user-attachments/assets/542fe772-c58e-421a-b030-c7b987882e7d)
 
-## Sovellusalueet ja Hyödyt
-
-- **Reaaliaikainen Sensoriluokittelu:** Tunnistetaan liiketiloja tai suuntia ilman raskasta pilvianalytiikkaa.  
-- **Edistyneet Analytiikkaratkaisut:** Koneoppimismenetelmien siirtäminen reunalaitteisiin (edge computing).  
-- **Laajennettavuus:** Järjestelmää voidaan laajentaa erilaisiin antureihin, protokolliin ja analytiikkamenetelmiin.
-
 ## Kehitysprosessi ja Työkalut
 
 - **Versiohallinta:** Git & GitHub.  
 - **Projektihallinta:** GitHubin Kanban-taulut tehtävien seurantaan.  
-- **SDLC-vaiheet:** Vaatimusmäärittely, suunnittelu, toteutus, testaus, käyttöönotto ja ylläpito.  
+- **Työnvaiheet:** suunnittelu, toteutus ja testaus.  
 - **Teknologiat:** C, Python, BLE, TCP/IP, MySQL, Apache, Markdown-dokumentaatio.
 
 
