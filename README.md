@@ -20,8 +20,8 @@ Projektin keskeiset komponentit ja tiedon kulku:
   - Opettaa K-means -keskipisteet datasta.  
   - Muodostaa confusion matriisin tulosten arviointiin.  
 - **nRF5340 (C-ohjelma):** Toteuttaa K-means-luokittelun laitteeseen kytketyllä kiihtyvyysanturilla hyödyntäen Pythonilla opetettuja keskipisteitä.
-![image](https://github.com/user-attachments/assets/2953a908-0f43-499e-adf9-adc9f7ebf95f)
 
+<img src="https://github.com/user-attachments/assets/2953a908-0f43-499e-adf9-adc9f7ebf95f" alt="Kuvaus" width="300"/>
 
 
 
