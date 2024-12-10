@@ -21,7 +21,7 @@ Projektin keskeiset komponentit ja tiedon kulku:
   - Muodostaa confusion matriisin tulosten arviointiin.  
 - **nRF5340 (C-ohjelma):** Toteuttaa K-means-luokittelun laitteeseen kytketyllä kiihtyvyysanturilla hyödyntäen Pythonilla opetettuja keskipisteitä.
 
-*Esimerkkikaavio (korvaa omalla kuvallasi):*
+
 
 ![Arkkitehtuurikaavio](docs/architecture.png)
 
@@ -46,7 +46,7 @@ Projektin keskeiset komponentit ja tiedon kulku:
 
 **K-means** jakaa datan k klusteriin (tässä k=6). Jokainen mittauspiste (X, Y, Z) liitetään lähimpään keskipisteeseen. Klustereita ja niiden keskipisteitä päivitetään iteroiden, kunnes tulos vakiintuu.
 
-3D-visualisaatio (esimerkkikuva):
+3D-visualisaatio 
 
 ![image](https://github.com/user-attachments/assets/c25b1892-fdfa-4d92-ad24-f517fac27fda)
 
@@ -54,7 +54,7 @@ Projektin keskeiset komponentit ja tiedon kulku:
 
 Confusion matriisi kertoo, miten hyvin laitepohjainen K-means-luokitus vastaa tunnettua "oikeaa" luokittelua. Suuret arvot diagonaalilla tarkoittavat onnistunutta luokitusta.
 
-Esimerkkimatriisi:
+Matriisi:
 
 ![image](https://github.com/user-attachments/assets/542fe772-c58e-421a-b030-c7b987882e7d)
 
@@ -66,7 +66,7 @@ Esimerkkimatriisi:
 
 ## Kehitysprosessi ja Työkalut
 
-- **Versiohallinta:** Git & GitHub (branchit testaukseen ja tuotantoon).  
+- **Versiohallinta:** Git & GitHub.  
 - **Projektihallinta:** GitHubin Kanban-taulut tehtävien seurantaan.  
 - **SDLC-vaiheet:** Vaatimusmäärittely, suunnittelu, toteutus, testaus, käyttöönotto ja ylläpito.  
 - **Teknologiat:** C, Python, BLE, TCP/IP, MySQL, Apache, Markdown-dokumentaatio.
