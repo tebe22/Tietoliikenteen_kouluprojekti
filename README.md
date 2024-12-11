@@ -26,6 +26,7 @@ Projektin keskeiset komponentit ja tiedon kulku:
 
 
 **Arkkitehtuurikuva**
+
 ![image](https://github.com/user-attachments/assets/2839f2a9-d338-4b5c-b55e-84ef2f16100a)
 
 
